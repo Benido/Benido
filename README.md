@@ -1,5 +1,6 @@
 <!-- HEADER BANNER -->
-<div align="center">
+<div align="center">  
+  <img src="how-do-you-do-fellow-kids-steve-buscemi.gif" />  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=2563EB&center=true&vCenter=true&width=700&height=100&lines=R%C3%A9mi+Besni%C3%A9;Technicien+Syst%C3%A8me+%26+R%C3%A9seau;%C3%89tudiant+BTS+SIO+SISR" alt="Typing SVG" width="100%" />
 
   <br />
